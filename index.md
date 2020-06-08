@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Cognitive Bais Research (Data Analysis) 
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
